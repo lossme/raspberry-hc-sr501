@@ -1,4 +1,4 @@
-## 人体红外感模块
+## 人体红外感模块 HC-SR501
 
 [文档](https://docs.particle.io/assets/datasheets/makerkit/pir-sensor.pdf)
 
