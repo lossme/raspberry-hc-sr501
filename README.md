@@ -21,6 +21,6 @@ while True:
         # 检测到有人后会持续几秒钟的高电平
         time.sleep(5)
     else:
-    print("没人...")
-    time.sleep(1)
+        print("没人...")
+        time.sleep(1)
 ```
